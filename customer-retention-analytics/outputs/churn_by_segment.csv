@@ -1,0 +1,10 @@
+contract_type,risk_band,customers,avg_monthly_charges,churn_rate
+Month-to-month,Low,510,71.22,0.1765
+Month-to-month,Medium,148,84.28,0.473
+Month-to-month,High,5,77.61,1.0
+One year,Low,243,68.29,0.1605
+One year,Medium,63,82.92,0.5556
+One year,High,1,97.08,0.0
+Two year,Low,199,69.0,0.1457
+Two year,Medium,31,90.88,0.2903
+Two year,High,0,,
